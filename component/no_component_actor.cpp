@@ -1,5 +1,7 @@
 #include "common_keyword.h"
 
+
+// Componentパターンを使わない場合の実装
 class Bjorn
 {
   public:
